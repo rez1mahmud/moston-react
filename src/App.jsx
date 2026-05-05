@@ -1,3 +1,8 @@
+// Author: Rezwan Mahmud
+// Create: 05/05/2026
+// Update: 05/05/2026
+
+
 import { useEffect } from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
